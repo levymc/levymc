@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @levymc
-- 👀 I’m interested in Material Science and in Programming (Python and C)
-- 🌱 I’m currently learning Python and Javascript
-- 💞️ I am looking for process automation projects
+- 👀 I’m interested in process automations using Python databases and libraries (a little RPA too), web applications with Python Back End (Flask/Django) and other fun projects.
+- 🌱 I’m currently learning Django, Flask, Javascript, ReactJS and NextJS.
+- 💞️ I am looking for process automation projects and web applications.
 - 📫 You can reach me at <a href="https://www.linkedin.com/in/levymcruz/">Linkedin</a>
 
 <!---
