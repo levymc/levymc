@@ -4,7 +4,7 @@
 - 👀 Tenho interesse em automação de processos usando Python (Web Scraping - Selenium), bancos de dados e bibliotecas (um pouco de RPA também), aplicações web com Back End em Python (Flask/Django) e outros projetos divertidos.
 - 🌱 Atualmente estou aprendendo Django, Flask, Javascript e TypeScript.
 - 💞️ Estou procurando projetos de automação de processos e aplicações web.
-- 📫 Você pode me encontrar no LinkedIn e 
+- 📫 Você pode me encontrar no [LinkedIn](https://www.linkedin.com/in/levymcruz/)
 
 ## Habilidades
 - Python
@@ -31,7 +31,7 @@ ________________________________________________________________________________
 - 👀 I'm interested in process automation using Python (Web Scraping - Selenium), databases and libraries (a bit of RPA too), web applications with Python Back End (Flask/Django) and other fun projects.
 - 🌱 I'm currently learning Django, Flask, Javascript and TypeScript.
 - 💞️ I'm looking for process automation and web application projects.
-- 📫 You can find me on LinkedIn and 
+- 📫 You can find me on [LinkedIn](https://www.linkedin.com/in/levymcruz/)
 
 ## Skills
 - Python
