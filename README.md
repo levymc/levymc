@@ -1,7 +1,7 @@
 # Olá, eu sou o @levymc 👋
 
 ## Sobre mim
-- 👀 Tenho interesse em automação de processos usando Python (Web Scraping - Selenium), bancos de dados e bibliotecas (um pouco de RPA também), aplicações web com Back End em Python (Flask/Django) e outros projetos divertidos.
+- 👀 Tenho interesse em automação de processos usando Python (Web Scraping - Selenium), bancos de dados e bibliotecas, aplicações web com Back End em Python (Flask/Django) e outros projetos divertidos.
 - 🌱 Atualmente estou aprendendo Django, Flask, Javascript e TypeScript.
 - 💞️ Estou procurando projetos de automação de processos e aplicações web.
 - 📫 Você pode me encontrar no [LinkedIn](https://www.linkedin.com/in/levymcruz/)
