@@ -1,12 +1,33 @@
 # Olá, eu sou o @levymc 👋
 
-## Sobre mim
-- 👀 Tenho interesse em automação de processos usando Python (Web Scraping - Selenium), bancos de dados e bibliotecas, aplicações web com Back End em Python (Flask/Django) e outros projetos divertidos.
-- 🌱 Atualmente estou aprendendo Django, Flask, Javascript e TypeScript.
-- 💞️ Estou procurando projetos de automação de processos e aplicações web.
-- 📫 Você pode me encontrar no [LinkedIn](https://www.linkedin.com/in/levymcruz/)
+## Sobre Mim
 
+Sou um desenvolvedor de software especializado em criar soluções voltadas para automações e APIs. Minha paixão é simplificar processos complexos e oferecer inovações tecnológicas para empresas em busca de soluções de ponta.
+
+Minha trajetória começou como engenheiro de materiais, exercendo a profissão por 2 anos. No entanto, minha paixão pela programação sempre esteve presente. Desde programar placas de impressoras 3D até desenvolver soluções web para automatizar processos na fábrica, sempre estive envolvido com a tecnologia.
+
+Atualmente, minha especialização está concentrada no desenvolvimento de automações e APIs, com preferência por Python e JavaScript. Contribuí com soluções que aliviaram dores significativas em uma fábrica, incluindo a criação de automações eficientes com Python (Selenium) e o desenvolvimento de aplicações web sólidas em Node.js e React.
+
+Estou constantemente em busca de aprendizado, adaptando-me às melhores práticas do mercado, seja em relação ao clean code ou à incorporação de novas tecnologias. Compreendo as dificuldades das empresas na busca por talentos em tecnologia e estou aqui para facilitar esse processo.
+
+Gosto de simplificar processos burocráticos e busco oferecer uma perspectiva menos óbvia sobre os desafios. Sou um defensor da filosofia do 'menos é mais' e acredito que isso pode ser aplicado em todos os aspectos da vida. Considero isso como um dos meus lemas como desenvolvedor.
+
+## Experiência Profissional
+
+- 📆 Trabalho há 1 ano com API em Node (Express), Python (Django/Flask) e Java puro.
+- 🤖 Gosto de automações e aplico projetos como freelancer, envolvendo Selenium em Python, automações e RPA.
+- 📘 Estou estudando sobre arquitetura limpa, clean code e SOLID.
+
+## Conhecimentos Técnicos
+
+- 💻 Experiência em API (Node, Express), Python (Django, Flask) e Java.
+- 🌐 Desenvolvimento de automações usando Selenium (Python).
+- 🏗️ Estudo ativo de arquitetura limpa, clean code e princípios SOLID.
+  
 ## Habilidades
+- Node.js
+- Nest.js
+- Jest e supertest
 - Python
 - Selenium
 - Flask
