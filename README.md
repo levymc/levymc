@@ -14,9 +14,9 @@ Gosto de simplificar processos burocráticos e busco oferecer uma perspectiva me
 
 ## Experiência Profissional
 
-- 📆 Trabalho há 1 ano com API em Node (Express), Python (Django/Flask) e Java puro.
+- 📆 Trabalho há 2 ano com API REST e Webhooks em Node (NestJS ou Express), Python (Django/Flask) e Java puro.
 - 🤖 Gosto de automações e aplico projetos como freelancer, envolvendo Selenium em Python, automações e RPA.
-- 📘 Estou estudando sobre arquitetura limpa, clean code e SOLID.
+- 📘 Estou estudando sobre arquitetura limpa, clean code, SOLID e Kafka e faço um curso complementar da Full Cycle.
 
 ## Conhecimentos Técnicos
 
